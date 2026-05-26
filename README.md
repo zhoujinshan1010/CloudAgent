@@ -1,4 +1,4 @@
-# ☁️ CloudAgent — 企业级云平台智能客服系统
+# ☁️ CloudAgent — 智能客服助手
 
 > 基于 LangGraph Multi-Agent 编排 + Milvus 语义缓存 + 图向量混合检索（Hybrid RAG）构建的下一代企业级智能客服平台
 
